@@ -34,9 +34,6 @@ Syntax highlighting with Solarized theme.
 {% highlight ruby %}
 class User < ActiveRecord::Base
   attr_accessible :email, :name
-
-  ... tons of other crap ...
-
 end
 
 {% endhighlight %}
